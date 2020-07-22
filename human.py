@@ -1,1 +1,1 @@
-name = "good man"
+name = "nice man"
