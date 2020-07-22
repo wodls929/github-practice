@@ -1,2 +1,2 @@
 this = 'start file'
-this2 = 'updating'
+this2 = '업데이트'
